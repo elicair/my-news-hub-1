@@ -1,3 +1,3 @@
 # my-news-hub-1
 my news hub
-news.html
+<a herf "https://github.com/elicair/my-news-hub-1/blob/main/news.html> news of the week</a>
