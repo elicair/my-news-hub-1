@@ -16,6 +16,6 @@ my news hub
 <p> local investigators have narrowed down the cause of the fire to a breaker in an adjacent out building. The ageing breaker failed which caused a small string of sparks to land in nearby garden waste. The sparks quickly ignited the dried plants which smoldered until the surrounding wooden box caught fire. The fire quickly engulfed the out building and spread to the main house. Although fire fighters were on the scene in record time there was no saving the home as much of it had already begun to burn in the 10 mph wind.</p>
 
 <p> according to fire weekly <blockquote> The fire that took the browns family home is becoming far too common among aging homes. The electrical systems weren't meant to last as long as they have which leads to more and more fires.</blockquote></p>
-<P> in other news it will be warm and sunny today acording to The Weather Channel.com</P>
+<P> In other news it will be warm and sunny today acording to The Weather Channel.com</P>
 <p><a href="https://weather.com/weather/tenday/l/Wisconsin+WI?placeId=da6042ec339be8440cf382c7fd7c59ba08db9dd8803b68d04ca0caffd7ce7efa/">The Weather channel</a></p>
-
+<p><a href="file:///home/chronos/u-36ca3512a5ddd7976ba54e3443ab8fde62d775e3/MyFiles/New%20folder%20(1)/news.html/">downloadable version</a></p>
