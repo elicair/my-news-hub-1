@@ -3,7 +3,7 @@ my news hub
 
 <!DOCTYPE html>
 <html lang="en">
-<head> <title><b> news today</b></title>
+<p><head> <b> news today</b></head></P>
 <b>Town hall holds board meeting</b></head>
 
 <p> The town board holds its monthly meeting today at the town hall. They discuss whether to allow a conditional use permit and a driveway permit on rd.8. All are welcome to join us in the town hall at 5pm today sep 16.</p>
