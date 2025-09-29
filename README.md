@@ -1,7 +1,4 @@
 # my-news-hub-1
-my news hub
-
-<!DOCTYPE html>
 <html lang="en">
 <p><head> <b> news today</b></head></P>
 <b>Town hall holds board meeting</b></head>
