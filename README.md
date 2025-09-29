@@ -18,5 +18,4 @@ my news hub
 <p> according to fire weekly <blockquote> The fire that took the browns family home is becoming far too common among aging homes. The electrical systems weren't meant to last as long as they have which leads to more and more fires.</blockquote></p>
 <P> In other news it will be warm and sunny today acording to The Weather Channel.com</P>
 <p><a href="https://weather.com/weather/tenday/l/Wisconsin+WI?placeId=da6042ec339be8440cf382c7fd7c59ba08db9dd8803b68d04ca0caffd7ce7efa/">The Weather channel</a></p>
-<p><a href="file://home/chronos/u-36ca3512a5ddd7976ba54e3443ab8fde62d775e3/MyFiles/New%20folder%20(1)/news.html/">Downloadable Version</a></p>
-<p> Check out our downloadable version <a href="file:///home/chronos/u-36ca3512a5ddd7976ba54e3443ab8fde62d775e3/MyFiles/New%20folder%20(1)/news.html/" target="_blank"
+<p><a href="/">Downloadable Version</a></p>
